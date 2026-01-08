@@ -1,3 +1,4 @@
+#simple calculator using var and operator
 v1=int(input())
 v2=int(input())
 print("addition of ",v1,"+",v2,"is",v1+v2)
